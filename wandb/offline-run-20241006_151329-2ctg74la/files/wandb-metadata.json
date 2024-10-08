@@ -1,0 +1,30 @@
+{
+  "os": "Windows-10-10.0.22621-SP0",
+  "python": "3.10.14",
+  "startedAt": "2024-10-06T09:43:29.410013Z",
+  "program": "c:\\Users\\91628\\Desktop\\AI Drone\\src\\SAC\\training_model.py",
+  "codePath": "Desktop\\AI Drone\\src\\SAC\\training_model.py",
+  "git": {
+    "commit": "f07372b9b7b94ed60a5179aa00f3df1fcbfca525"
+  },
+  "root": "C:\\Users\\91628\\Desktop\\AI Drone",
+  "host": "LAPTOP-34VCGSI3",
+  "username": "91628",
+  "executable": "C:\\Users\\91628\\anaconda3\\python.exe",
+  "codePathLocal": "src\\SAC\\training_model.py",
+  "cpu_count": 2,
+  "cpu_count_logical": 4,
+  "disk": {
+    "/": {
+      "total": "510742491136",
+      "used": "444424413184"
+    }
+  },
+  "memory": {
+    "total": "8263655424"
+  },
+  "cpu": {
+    "count": 2,
+    "countLogical": 4
+  }
+}

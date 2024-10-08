@@ -1,0 +1,30 @@
+{"time":"2024-10-05T21:20:19.4755396+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-05T21:20:19.4755396+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\91628\\Desktop\\AI Drone\\src\\wandb\\offline-run-20241005_212019-31wa8vaq\\logs\\debug-core.log"}
+{"time":"2024-10-05T21:20:20.0678292+05:30","level":"INFO","msg":"created new stream","id":"31wa8vaq"}
+{"time":"2024-10-05T21:20:20.0678292+05:30","level":"INFO","msg":"stream: started","id":"31wa8vaq"}
+{"time":"2024-10-05T21:20:20.0683358+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"31wa8vaq"}}
+{"time":"2024-10-05T21:20:20.0705481+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"31wa8vaq"}}
+{"time":"2024-10-05T21:20:20.0705481+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"31wa8vaq"}}
+{"time":"2024-10-05T21:20:20.0998141+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-05T21:20:20.1017461+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-05T21:20:30.1044794+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-05T21:20:37.1173495+05:30","level":"INFO","msg":"tensorboard: no root directory after 10 seconds, using working directory"}
+{"time":"2024-10-05T21:20:40.1032588+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-05T21:20:50.1034608+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-05T21:21:00.1035971+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-05T21:21:10.104128+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-05T21:21:20.1036632+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-05T21:21:30.103131+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-05T21:21:40.102938+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-05T21:21:50.1031817+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-05T21:22:00.1033441+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-05T21:22:10.1031512+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-05T21:22:20.1030315+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-05T21:22:30.1033186+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-05T21:22:40.1042298+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-05T21:22:50.1039867+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-05T21:23:00.10426+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-05T21:23:10.1035209+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-05T21:23:20.1036587+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-05T21:23:30.1103429+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}
+{"time":"2024-10-05T21:23:40.1031681+05:30","level":"ERROR","msg":"monitor: disk: error sampling metrics: Incorrect function."}

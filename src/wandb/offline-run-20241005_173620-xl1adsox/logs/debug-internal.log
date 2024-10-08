@@ -1,0 +1,16 @@
+{"time":"2024-10-05T17:36:20.1930792+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-05T17:36:20.1936149+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\91628\\Desktop\\AI Drone\\src\\wandb\\offline-run-20241005_173620-xl1adsox\\logs\\debug-core.log"}
+{"time":"2024-10-05T17:36:20.2089926+05:30","level":"INFO","msg":"created new stream","id":"xl1adsox"}
+{"time":"2024-10-05T17:36:20.2089926+05:30","level":"INFO","msg":"stream: started","id":"xl1adsox"}
+{"time":"2024-10-05T17:36:20.2089926+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"xl1adsox"}}
+{"time":"2024-10-05T17:36:20.2097898+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"xl1adsox"}}
+{"time":"2024-10-05T17:36:20.2097898+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"xl1adsox"}}
+{"time":"2024-10-05T17:36:20.2273864+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-05T17:36:20.2289648+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-05T17:36:22.2915195+05:30","level":"INFO","msg":"stream: closing","id":"xl1adsox"}
+{"time":"2024-10-05T17:36:22.2915195+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-05T17:36:22.2920323+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-05T17:36:22.2920323+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"xl1adsox"}}
+{"time":"2024-10-05T17:36:22.2920323+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"xl1adsox"}}
+{"time":"2024-10-05T17:36:22.2920323+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"xl1adsox"}}
+{"time":"2024-10-05T17:36:22.2920323+05:30","level":"INFO","msg":"stream: closed","id":"xl1adsox"}

@@ -1,0 +1,16 @@
+{"time":"2024-10-06T15:13:29.6268931+05:30","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-06T15:13:29.6274653+05:30","level":"INFO","msg":"created symlink","path":"C:\\Users\\91628\\Desktop\\AI Drone\\wandb\\offline-run-20241006_151329-2ctg74la\\logs\\debug-core.log"}
+{"time":"2024-10-06T15:13:30.3079117+05:30","level":"INFO","msg":"created new stream","id":"2ctg74la"}
+{"time":"2024-10-06T15:13:30.3079117+05:30","level":"INFO","msg":"stream: started","id":"2ctg74la"}
+{"time":"2024-10-06T15:13:30.3079117+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"2ctg74la"}}
+{"time":"2024-10-06T15:13:30.3157079+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"2ctg74la"}}
+{"time":"2024-10-06T15:13:30.3187969+05:30","level":"INFO","msg":"sender: started","stream_id":{"value":"2ctg74la"}}
+{"time":"2024-10-06T15:13:30.3529265+05:30","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-06T15:13:30.3549589+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-06T15:13:32.3240668+05:30","level":"INFO","msg":"stream: closing","id":"2ctg74la"}
+{"time":"2024-10-06T15:13:32.3240668+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-06T15:13:32.3245819+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-06T15:13:32.3245819+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"2ctg74la"}}
+{"time":"2024-10-06T15:13:32.3245819+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"2ctg74la"}}
+{"time":"2024-10-06T15:13:32.3245819+05:30","level":"INFO","msg":"sender: closed","stream_id":{"value":"2ctg74la"}}
+{"time":"2024-10-06T15:13:32.3256569+05:30","level":"INFO","msg":"stream: closed","id":"2ctg74la"}
